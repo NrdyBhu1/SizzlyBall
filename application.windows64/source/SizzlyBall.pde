@@ -12,7 +12,7 @@ public String buttonTwoText = "5-minutes";
 public float bylineX = 91;
 
 //Mode
-public int mode = 2;
+public int mode = 0;
 public int menuMode = 0;
 public int gameMode = 1;
 public int endMode = 2;
